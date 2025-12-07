@@ -1,5 +1,5 @@
 #Clone Repository
-git clone https://github.com/yourusername/yourrepo.git
+git clone https://github.com/yourusername/ashishkumar94.git
 cd yourrepo
 
 #Install Dependencies
