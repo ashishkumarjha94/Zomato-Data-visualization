@@ -1,0 +1,104 @@
+⭐ README.md
+📊 Starbucks Store Data Analysis
+
+A comprehensive exploratory data analysis (EDA) on the Starbucks Global Store Directory dataset.
+This project uncovers insights about Starbucks store distribution, ownership types, and country-wise presence using Python data analysis and visualization.
+####################################################################################################################################################################################################################
+🚀 Project Overview
+
+This project analyzes the Starbucks Store Directory dataset to answer questions such as:
+
+How many Starbucks stores exist worldwide?
+
+Which countries have the highest number of stores?
+
+What are the most common ownership types?
+
+How is Starbucks expanding geographically?
+
+What patterns can be derived from store categories and attributes?
+
+The notebook includes data cleaning, processing, visualization, and summary insights.
+############################################################################################################################################################################################################
+📁 Dataset
+
+Source: Kaggle (directory.csv)
+
+File contains:
+
+Store ID
+
+Country
+
+State / Province
+
+City
+
+Ownership Type
+
+Store Type
+
+Coordinates (Latitude / Longitude)
+
+Additional store attributes
+
+############################################################################################################################################################################################################
+🛠️ Technologies Used
+
+Python 3
+
+Pandas → Data cleaning & manipulation
+
+Matplotlib → Data visualization
+
+Jupyter Notebook
+#############################################################################################################################################################################################################
+📌 Key Steps in the Analysis
+1️⃣ Data Loading
+
+Load directory.csv into a pandas DataFrame
+
+Display shape, column info, and sample records
+
+2️⃣ Data Cleaning
+
+Check for missing values
+
+Identify duplicate entries
+
+Understand data types
+
+3️⃣ Exploratory Data Analysis (EDA)
+
+Country-wise store count
+
+Ownership type distribution
+
+Category/type counts
+
+Visualizations using Matplotlib
+
+4️⃣ Visual Insights
+
+Some of the charts generated include:
+
+Top countries by number of Starbucks stores
+
+Bar chart of ownership types
+
+Distribution of stores geographically
+
+Store types breakdown
+
+####################################################################################################################################################################################################
+📚 Key Insights
+
+The United States has the highest number of Starbucks stores.
+
+Licensed stores form a major ownership segment globally.
+
+Several countries have rapidly expanding store counts.
+
+Some regions show strong dominance of specific ownership types.
+
+########################################################################################################################################################################################################3
