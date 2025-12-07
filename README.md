@@ -1,6 +1,7 @@
 #Clone Repository
-git clone https://github.com/yourusername/ashishkumar94.git
-cd yourrepo
+git clone https://github.com/ashishkumarjha94/Zomato-Data-visualization.git
+cd Zomato-Data-visualization
+
 
 #Install Dependencies
 pip install -r requirements.txt
